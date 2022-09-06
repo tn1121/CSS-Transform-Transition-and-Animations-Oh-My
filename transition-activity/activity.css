@@ -2,6 +2,6 @@ button:hover{
     transition: 2s ease-in; 
     background-color: cornflowerblue;
     border-style:none;
-    border-radius:1em;
+    border-radius:0.5em;
     color: ghostwhite;
 }
